@@ -16,7 +16,7 @@ const Tours = () => {
               </div>
               <div class='tour-info'>
                 <div class='tour-title'>
-                  <h4>tour.title</h4>
+                  <h4>{tour.title}</h4>
                 </div>
                 <p>
                   Lorem ipsum dolor sit amet, consectetur adipisicing elit.
